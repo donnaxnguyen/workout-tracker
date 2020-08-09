@@ -12,12 +12,8 @@ The user should be able to:
 
   * Add new exercises to a new workout plan.
 
-  * View multiple the combined weight of multiple exercises on the `stats` page.
+  * View multiple the combined weight of multiple exercises on the "stats" page.
 
 ## Deployed Application
 
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the Github repository
+https://vast-ridge-93529.herokuapp.com/
